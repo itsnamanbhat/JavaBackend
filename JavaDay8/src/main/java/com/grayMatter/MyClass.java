@@ -7,7 +7,7 @@ public class  MyClass <T>{
 	}
 	
 	public void sendMsg() {
-		System.out.println("From class myClass to reciever"+msg);
+		System.out.println("From class myClass to reciever "+msg);
 	}
 
 	public static void main(String[] args) {
